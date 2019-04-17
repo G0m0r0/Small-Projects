@@ -1,0 +1,14 @@
+D:\C#\University\cows and bull\cows and bull\bin\Debug\cows and bull.exe.config
+D:\C#\University\cows and bull\cows and bull\bin\Debug\cows and bull.exe
+D:\C#\University\cows and bull\cows and bull\bin\Debug\cows and bull.pdb
+D:\C#\University\cows and bull\cows and bull\obj\Debug\cows and bull.csprojAssemblyReference.cache
+D:\C#\University\cows and bull\cows and bull\obj\Debug\cows and bull.csproj.CoreCompileInputs.cache
+D:\C#\University\cows and bull\cows and bull\obj\Debug\cows and bull.exe
+D:\C#\University\cows and bull\cows and bull\obj\Debug\cows and bull.pdb
+D:\C#\My projects\cows and bull\cows and bull\bin\Debug\cows and bull.exe.config
+D:\C#\My projects\cows and bull\cows and bull\bin\Debug\cows and bull.exe
+D:\C#\My projects\cows and bull\cows and bull\bin\Debug\cows and bull.pdb
+D:\C#\My projects\cows and bull\cows and bull\obj\Debug\cows and bull.csprojAssemblyReference.cache
+D:\C#\My projects\cows and bull\cows and bull\obj\Debug\cows and bull.csproj.CoreCompileInputs.cache
+D:\C#\My projects\cows and bull\cows and bull\obj\Debug\cows and bull.exe
+D:\C#\My projects\cows and bull\cows and bull\obj\Debug\cows and bull.pdb

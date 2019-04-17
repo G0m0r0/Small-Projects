@@ -1,0 +1,7 @@
+D:\C#\Matrix substraction\test matrix\bin\Debug\test matrix.exe.config
+D:\C#\Matrix substraction\test matrix\bin\Debug\test matrix.exe
+D:\C#\Matrix substraction\test matrix\bin\Debug\test matrix.pdb
+D:\C#\Matrix substraction\test matrix\obj\Debug\test matrix.csprojAssemblyReference.cache
+D:\C#\Matrix substraction\test matrix\obj\Debug\test matrix.csproj.CoreCompileInputs.cache
+D:\C#\Matrix substraction\test matrix\obj\Debug\test matrix.exe
+D:\C#\Matrix substraction\test matrix\obj\Debug\test matrix.pdb

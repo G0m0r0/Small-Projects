@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Einstein's riddle", "Einstein's riddle\Einstein's riddle.csproj", "{DC077C58-43B7-42C6-907E-404ECA597402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC077C58-43B7-42C6-907E-404ECA597402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC077C58-43B7-42C6-907E-404ECA597402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC077C58-43B7-42C6-907E-404ECA597402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC077C58-43B7-42C6-907E-404ECA597402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E8B4C90-DD3E-46B6-A7DA-67651FE3A4E2}
+	EndGlobalSection
+EndGlobal

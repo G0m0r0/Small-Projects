@@ -1,0 +1,6 @@
+D:\C#\My projects\Exam basics\Treking mania\bin\Debug\Treking mania.exe.config
+D:\C#\My projects\Exam basics\Treking mania\bin\Debug\Treking mania.exe
+D:\C#\My projects\Exam basics\Treking mania\bin\Debug\Treking mania.pdb
+D:\C#\My projects\Exam basics\Treking mania\obj\Debug\Treking mania.csproj.CoreCompileInputs.cache
+D:\C#\My projects\Exam basics\Treking mania\obj\Debug\Treking mania.exe
+D:\C#\My projects\Exam basics\Treking mania\obj\Debug\Treking mania.pdb

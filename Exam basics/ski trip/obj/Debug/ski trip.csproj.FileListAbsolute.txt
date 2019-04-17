@@ -1,0 +1,6 @@
+D:\C#\My projects\Exam basics\ski trip\bin\Debug\ski trip.exe.config
+D:\C#\My projects\Exam basics\ski trip\bin\Debug\ski trip.exe
+D:\C#\My projects\Exam basics\ski trip\bin\Debug\ski trip.pdb
+D:\C#\My projects\Exam basics\ski trip\obj\Debug\ski trip.csproj.CoreCompileInputs.cache
+D:\C#\My projects\Exam basics\ski trip\obj\Debug\ski trip.exe
+D:\C#\My projects\Exam basics\ski trip\obj\Debug\ski trip.pdb

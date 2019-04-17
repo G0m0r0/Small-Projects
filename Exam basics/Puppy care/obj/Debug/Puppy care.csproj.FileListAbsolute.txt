@@ -1,0 +1,6 @@
+D:\C#\My projects\Exam basics\Puppy care\bin\Debug\Puppy care.exe.config
+D:\C#\My projects\Exam basics\Puppy care\bin\Debug\Puppy care.exe
+D:\C#\My projects\Exam basics\Puppy care\bin\Debug\Puppy care.pdb
+D:\C#\My projects\Exam basics\Puppy care\obj\Debug\Puppy care.csproj.CoreCompileInputs.cache
+D:\C#\My projects\Exam basics\Puppy care\obj\Debug\Puppy care.exe
+D:\C#\My projects\Exam basics\Puppy care\obj\Debug\Puppy care.pdb

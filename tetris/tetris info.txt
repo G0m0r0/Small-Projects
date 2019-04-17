@@ -1,0 +1,8 @@
+borders, colors,set cursor
+while(true)
+{
+   //user input
+   //change state
+   //redraw UI
+     sleep(40mm/s) 1000ms/24frames
+}

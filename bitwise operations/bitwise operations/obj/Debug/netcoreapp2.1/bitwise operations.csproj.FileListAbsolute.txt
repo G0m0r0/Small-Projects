@@ -1,0 +1,11 @@
+D:\C#\My projects\bitwise operations\bitwise operations\bin\Debug\netcoreapp2.1\bitwise operations.deps.json
+D:\C#\My projects\bitwise operations\bitwise operations\bin\Debug\netcoreapp2.1\bitwise operations.runtimeconfig.json
+D:\C#\My projects\bitwise operations\bitwise operations\bin\Debug\netcoreapp2.1\bitwise operations.runtimeconfig.dev.json
+D:\C#\My projects\bitwise operations\bitwise operations\bin\Debug\netcoreapp2.1\bitwise operations.dll
+D:\C#\My projects\bitwise operations\bitwise operations\bin\Debug\netcoreapp2.1\bitwise operations.pdb
+D:\C#\My projects\bitwise operations\bitwise operations\obj\Debug\netcoreapp2.1\bitwise operations.csprojAssemblyReference.cache
+D:\C#\My projects\bitwise operations\bitwise operations\obj\Debug\netcoreapp2.1\bitwise operations.csproj.CoreCompileInputs.cache
+D:\C#\My projects\bitwise operations\bitwise operations\obj\Debug\netcoreapp2.1\bitwise operations.AssemblyInfoInputs.cache
+D:\C#\My projects\bitwise operations\bitwise operations\obj\Debug\netcoreapp2.1\bitwise operations.AssemblyInfo.cs
+D:\C#\My projects\bitwise operations\bitwise operations\obj\Debug\netcoreapp2.1\bitwise operations.dll
+D:\C#\My projects\bitwise operations\bitwise operations\obj\Debug\netcoreapp2.1\bitwise operations.pdb

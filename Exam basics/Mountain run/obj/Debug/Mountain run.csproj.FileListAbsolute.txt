@@ -1,0 +1,6 @@
+D:\C#\My projects\Exam basics\Mountain run\bin\Debug\Mountain run.exe.config
+D:\C#\My projects\Exam basics\Mountain run\bin\Debug\Mountain run.exe
+D:\C#\My projects\Exam basics\Mountain run\bin\Debug\Mountain run.pdb
+D:\C#\My projects\Exam basics\Mountain run\obj\Debug\Mountain run.csproj.CoreCompileInputs.cache
+D:\C#\My projects\Exam basics\Mountain run\obj\Debug\Mountain run.exe
+D:\C#\My projects\Exam basics\Mountain run\obj\Debug\Mountain run.pdb

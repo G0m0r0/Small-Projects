@@ -1,0 +1,7 @@
+D:\C#\My projects\Exam basics\Exam basics\bin\Debug\Exam basics.exe.config
+D:\C#\My projects\Exam basics\Exam basics\bin\Debug\Exam basics.exe
+D:\C#\My projects\Exam basics\Exam basics\bin\Debug\Exam basics.pdb
+D:\C#\My projects\Exam basics\Exam basics\obj\Debug\Exam basics.csprojAssemblyReference.cache
+D:\C#\My projects\Exam basics\Exam basics\obj\Debug\Exam basics.csproj.CoreCompileInputs.cache
+D:\C#\My projects\Exam basics\Exam basics\obj\Debug\Exam basics.exe
+D:\C#\My projects\Exam basics\Exam basics\obj\Debug\Exam basics.pdb

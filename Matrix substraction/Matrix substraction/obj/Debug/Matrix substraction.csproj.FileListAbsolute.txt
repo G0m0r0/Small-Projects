@@ -1,0 +1,21 @@
+C:\Users\dimit\source\repos\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Matrix substraction\Matrix substraction\bin\Debug\Matrix substraction.exe.config
+C:\Users\dimit\source\repos\Matrix substraction\Matrix substraction\bin\Debug\Matrix substraction.exe
+C:\Users\dimit\source\repos\Matrix substraction\Matrix substraction\bin\Debug\Matrix substraction.pdb
+C:\Users\dimit\source\repos\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.exe
+C:\Users\dimit\source\repos\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.pdb
+D:\C#\Matrix substraction\Matrix substraction\bin\Debug\Matrix substraction.exe.config
+D:\C#\Matrix substraction\Matrix substraction\bin\Debug\Matrix substraction.exe
+D:\C#\Matrix substraction\Matrix substraction\bin\Debug\Matrix substraction.pdb
+D:\C#\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.csprojAssemblyReference.cache
+D:\C#\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.csproj.CoreCompileInputs.cache
+D:\C#\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.exe
+D:\C#\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.pdb
+D:\C#\My projects\Matrix substraction\Matrix substraction\bin\Debug\Matrix substraction.exe.config
+D:\C#\My projects\Matrix substraction\Matrix substraction\bin\Debug\Matrix substraction.exe
+D:\C#\My projects\Matrix substraction\Matrix substraction\bin\Debug\Matrix substraction.pdb
+D:\C#\My projects\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.csprojAssemblyReference.cache
+D:\C#\My projects\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.csproj.CoreCompileInputs.cache
+D:\C#\My projects\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.exe
+D:\C#\My projects\Matrix substraction\Matrix substraction\obj\Debug\Matrix substraction.pdb

@@ -1,0 +1,11 @@
+D:\C#\My projects\tetris\tetris\bin\Debug\netcoreapp2.1\colors.deps.json
+D:\C#\My projects\tetris\tetris\bin\Debug\netcoreapp2.1\colors.runtimeconfig.json
+D:\C#\My projects\tetris\tetris\bin\Debug\netcoreapp2.1\colors.runtimeconfig.dev.json
+D:\C#\My projects\tetris\tetris\bin\Debug\netcoreapp2.1\colors.dll
+D:\C#\My projects\tetris\tetris\bin\Debug\netcoreapp2.1\colors.pdb
+D:\C#\My projects\tetris\tetris\obj\Debug\netcoreapp2.1\colors.csprojAssemblyReference.cache
+D:\C#\My projects\tetris\tetris\obj\Debug\netcoreapp2.1\colors.csproj.CoreCompileInputs.cache
+D:\C#\My projects\tetris\tetris\obj\Debug\netcoreapp2.1\colors.AssemblyInfoInputs.cache
+D:\C#\My projects\tetris\tetris\obj\Debug\netcoreapp2.1\colors.AssemblyInfo.cs
+D:\C#\My projects\tetris\tetris\obj\Debug\netcoreapp2.1\colors.dll
+D:\C#\My projects\tetris\tetris\obj\Debug\netcoreapp2.1\colors.pdb
