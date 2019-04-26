@@ -1,0 +1,8 @@
+E:\Delyan\C#\convert celsius into fahrenheit\convert celsius into fahrenheit\bin\Debug\convert celsius into fahrenheit.exe.config
+E:\Delyan\C#\convert celsius into fahrenheit\convert celsius into fahrenheit\bin\Debug\convert celsius into fahrenheit.exe
+E:\Delyan\C#\convert celsius into fahrenheit\convert celsius into fahrenheit\bin\Debug\convert celsius into fahrenheit.pdb
+E:\Delyan\C#\convert celsius into fahrenheit\convert celsius into fahrenheit\obj\Debug\convert_celsius_into_fahrenheit.Form1.resources
+E:\Delyan\C#\convert celsius into fahrenheit\convert celsius into fahrenheit\obj\Debug\convert_celsius_into_fahrenheit.Properties.Resources.resources
+E:\Delyan\C#\convert celsius into fahrenheit\convert celsius into fahrenheit\obj\Debug\convert celsius into fahrenheit.csproj.GenerateResource.Cache
+E:\Delyan\C#\convert celsius into fahrenheit\convert celsius into fahrenheit\obj\Debug\convert celsius into fahrenheit.exe
+E:\Delyan\C#\convert celsius into fahrenheit\convert celsius into fahrenheit\obj\Debug\convert celsius into fahrenheit.pdb
