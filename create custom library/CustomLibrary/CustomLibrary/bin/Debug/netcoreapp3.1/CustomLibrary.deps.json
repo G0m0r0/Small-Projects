@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CustomLibrary/1.0.0": {
+        "dependencies": {
+          "Sorts": "1.1.0"
+        },
+        "runtime": {
+          "CustomLibrary.dll": {}
+        }
+      },
+      "Sorts/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Sorts.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sorts/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zmoXp6+fKqwCzGNsRI/33+ooyz74Y8eIBxHo+zjsTbsTR4f7Z5moM4JG+q8MrvEO0tL+b329TdGg/pezIREZNA==",
+      "path": "sorts/1.1.0",
+      "hashPath": "sorts.1.1.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\bin\Debug\netcoreapp3.1\CustomLibrary.exe
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\obj\Debug\netcoreapp3.1\CustomLibrary.csprojAssemblyReference.cache
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\obj\Debug\netcoreapp3.1\CustomLibrary.AssemblyInfoInputs.cache
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\obj\Debug\netcoreapp3.1\CustomLibrary.AssemblyInfo.cs
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\bin\Debug\netcoreapp3.1\CustomLibrary.deps.json
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\bin\Debug\netcoreapp3.1\CustomLibrary.runtimeconfig.json
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\bin\Debug\netcoreapp3.1\CustomLibrary.runtimeconfig.dev.json
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\bin\Debug\netcoreapp3.1\CustomLibrary.dll
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\bin\Debug\netcoreapp3.1\CustomLibrary.pdb
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\bin\Debug\netcoreapp3.1\Sorts.dll
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\obj\Debug\netcoreapp3.1\CustomLibrary.csproj.CopyComplete
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\obj\Debug\netcoreapp3.1\CustomLibrary.dll
+D:\Programming\My-Projects\create custom library\CustomLibrary\CustomLibrary\obj\Debug\netcoreapp3.1\CustomLibrary.pdb

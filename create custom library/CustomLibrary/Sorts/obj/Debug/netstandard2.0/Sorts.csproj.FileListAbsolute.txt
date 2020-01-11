@@ -1,0 +1,8 @@
+D:\Programming\My-Projects\create custom library\NuGet package\netstandard2.0\Sorts.deps.json
+D:\Programming\My-Projects\create custom library\NuGet package\netstandard2.0\Sorts.dll
+D:\Programming\My-Projects\create custom library\NuGet package\netstandard2.0\Sorts.pdb
+D:\Programming\My-Projects\create custom library\CustomLibrary\Sorts\obj\Debug\netstandard2.0\Sorts.csprojAssemblyReference.cache
+D:\Programming\My-Projects\create custom library\CustomLibrary\Sorts\obj\Debug\netstandard2.0\Sorts.AssemblyInfoInputs.cache
+D:\Programming\My-Projects\create custom library\CustomLibrary\Sorts\obj\Debug\netstandard2.0\Sorts.AssemblyInfo.cs
+D:\Programming\My-Projects\create custom library\CustomLibrary\Sorts\obj\Debug\netstandard2.0\Sorts.dll
+D:\Programming\My-Projects\create custom library\CustomLibrary\Sorts\obj\Debug\netstandard2.0\Sorts.pdb
