@@ -13,7 +13,7 @@ namespace A
             {
                 bool mutexCreated;
                 Mutex mutex = new Mutex(true, "testmapmutex", out mutexCreated);
-                using (MemoryMappedViewStream stream = mmf.CreateViewStream(3,0))
+                using (MemoryMappedViewStream stream = mmf.CreateViewStream())
                 {
                     BinaryWriter writer = new BinaryWriter(stream);
                     writer.Write(0);
