@@ -9,6 +9,7 @@ namespace A
     {
         static void Main(string[] args)
         {
+            string str = "my string";
             using (MemoryMappedFile mmf = MemoryMappedFile.CreateNew("testmap", 10000))
             {
                 bool mutexCreated;
@@ -16,7 +17,7 @@ namespace A
                 using (MemoryMappedViewStream stream = mmf.CreateViewStream())
                 {
                     BinaryWriter writer = new BinaryWriter(stream);
-                    writer.Write(0);
+                    writer.Write(str);
                 }
                 mutex.ReleaseMutex();
 
@@ -30,7 +31,8 @@ namespace A
                 using (MemoryMappedViewStream stream = mmf.CreateViewStream())
                 {
                     BinaryReader reader = new BinaryReader(stream);
-                    Console.WriteLine("Process A says: {0}", reader.ReadBoolean());
+                    var variable = reader.ReadString();
+                    Console.WriteLine("Process A says: {0}",variable );
                     Console.WriteLine("Process B says: {0}", reader.ReadBoolean());
                     Console.WriteLine("Process C says: {0}", reader.ReadBoolean());
                 }
