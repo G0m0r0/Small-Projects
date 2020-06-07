@@ -111,7 +111,6 @@
                         }
                     }
                 }
-                
 
                 sb.AppendLine($"-   {item.Key}: {item.Value} - {totalMoneyForProduct}");
                 totalMoneyForProduct = 0;
