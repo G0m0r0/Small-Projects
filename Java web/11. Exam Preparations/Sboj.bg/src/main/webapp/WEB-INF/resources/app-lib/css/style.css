@@ -1,0 +1,25 @@
+.bg-sboj {
+    background-color: #606060;
+}
+
+.w-15 {
+    width: 15%;
+}
+
+.min-w-300 {
+    min-width: 300px;
+}
+
+.min-w-360 {
+    min-width: 360px;
+}
+
+.error-msg {
+    color: red;
+    margin: 8px;
+    text-align: center
+}
+
+textarea {
+    resize: none;
+}
